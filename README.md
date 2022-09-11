@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**F1nnLM/F1nnLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 📑 Who am i?
+- i'm an italian computer science student that is trying to learn every day something new about this awesome world
+## 📗 What am i studying at the moment?
+- basic computer science knowledge
+## 📝 Future projects
+- personal site
+## 🕑 Projects
+N/A
+
+
