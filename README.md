@@ -30,7 +30,7 @@ My Setup 🖥️
   
   SSD: [Samsung 500GB 970 EVO Nvme M2 Solid State Drive](https://www.amazon.com/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc)
   
-  HDD: [Samsung 500GB 970 EVO Nvme M2 Solid State Drive](https://www.amazon.com/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc)
+  HDD: [Seagate BarraCuda 1TB Internal Hard Drive HDD – 3.5 Inch SATA 6 Gb/s 7200 RPM 64MB Cache for Computer Desktop PC (ST1000DM010)](https://www.amazon.com/gp/product/B01LNJBA2I/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1)
   
   
   
