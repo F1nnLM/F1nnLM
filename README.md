@@ -8,4 +8,5 @@ personal site
 
 📚 im currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
 
+💕 at the moment im trying to kill [this guy](https://github.com/DeltaFoxtMike)
 
