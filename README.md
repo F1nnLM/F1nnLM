@@ -1,4 +1,4 @@
-## 📑 Who am I?
+## 📑 About me
 > I am an italian computer science student that is trying to learn every day something new about this awesome world!
 > At the moment I'm studying the basic computer science knowledge so i'm not an expert at all
 ## 😀 My future project
