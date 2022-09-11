@@ -8,6 +8,8 @@ personal site
 
 📚 I'm currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
 
+😎 I OWN A FAKING COOL [VR HEADSET](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds) 
+
 💕 At the moment im trying to kill [this guy](https://github.com/DeltaFoxtMike)
 
 <details>
@@ -16,9 +18,8 @@ My Setup 🖥️
 </summary>
 <br>
   
-  VR headset: [Meta Quest 2](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds)
-  
-  
+ 
+   
   CPU: [AMD Ryzen 5 2600X Processor with Wraith Spire Cooler - YD260XBCAFBOX](https://www.amazon.com/gp/product/B07B428V2L/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc)
   
   RAM: [Crucial RAM 8GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz) Desktop Memory CT8G4DFRA32A](https://www.amazon.com/gp/product/B08C4VHQV2/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&th)
