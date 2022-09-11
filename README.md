@@ -15,7 +15,7 @@ personal site
 My Setup 🖥️
 </summary>
 <br>
-  VR headset: [Meta Quest 2](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds)
+  VR headset: Meta Quest 2
   
   CPU: [AMD Ryzen 5 2600X Processor with Wraith Spire Cooler - YD260XBCAFBOX](https://www.amazon.com/gp/product/B07B428V2L/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc)
   
