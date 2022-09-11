@@ -8,7 +8,7 @@ personal site
 
 📚 I'm currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
 
-😎 I OWN A FAKING COOL [VR HEADSET](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds) 
+😎 I OWN A FUKING COOL [VR HEADSET](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds) 
 
 💕 At the moment im trying to kill [this guy](https://github.com/DeltaFoxtMike)
 
