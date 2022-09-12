@@ -5,11 +5,11 @@
 - personal site
 - custom web browser home page
 ## Quick facts 💣
-🎮 I play a lot of severals games, that are mostly [Deceit](https://store.steampowered.com/app/466240/Deceit/) and [Dead by daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
+🎮 I play a lot of games, that are mostly [Deceit](https://store.steampowered.com/app/466240/Deceit/) and [Dead by daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
 
 📚 I'm currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
 
-😎 I OWN A FUKING COOL [VR HEADSET](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds) 
+😎 I OWN A FUCKING COOL [VR HEADSET](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds) 
 
 💕 At the moment im trying to kill [this guy](https://github.com/DeltaFoxtMike)
 
