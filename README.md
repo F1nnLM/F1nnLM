@@ -1,6 +1,8 @@
 ## 📑 About me
 > I am an italian computer science student that is trying to learn every day something new about this awesome world!
-> At the moment I'm studying the basic computer science knowledge so i'm not an expert at all
+> At the moment I'm studying the basic computer science knowledge so i'm not an expert at all <br>
+
+<a href="https://en.wikipedia.org/wiki/HTML"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg height="50" width="50"> <a>
 ## 😀 My future projects
 - personal site
 - custom web browser home page
