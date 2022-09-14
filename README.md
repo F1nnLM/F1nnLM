@@ -6,7 +6,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/css3-colored.png title="Not Learned" height="50" width="50"> <a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/js.png title="Not Learned" height="50" width="50"> <a>
 <a href="https://en.wikipedia.org/wiki/Java"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/java.png title="Not Learned" height="50" width="50"> <a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/python-colored.png title="Not Learned" height="50" width="50"> <a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/python-colored.png title="Not Learned" height="50" width="50"> </a>
 <!--other-->
 ## 😀 My future projects
 - personal site
