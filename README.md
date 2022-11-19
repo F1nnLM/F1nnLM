@@ -5,7 +5,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg title="Learned" height="50" width="50"> </a>
 <a href="https://it.wikipedia.org/wiki/CSS"> <a href="https://github.com/hemeraleback"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" title="Learned"> </a> </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/js.png title="Not Learned" height="50" width="50"> </a>
-<a href="https://it.wikipedia.org/wiki/Node.js"><a href="https://it.wikipedia.org/wiki/Node.js/"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/nodejs.png title="Not Learned" height="50" width="50"> </a>
+<a href="https://it.wikipedia.org/wiki/Node.js"><a href="https://it.wikipedia.org/wiki/Node.js"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/nodejs.png title="Not Learned" height="50" width="50"> </a>
 <a href="https://en.wikipedia.org/wiki/Java"> <img src=https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/java.png title="Not Learned" height="50" width="50"> </a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/python-colored.png title="Not Learned" height="50" width="50"> </a>
 <!--other-->
