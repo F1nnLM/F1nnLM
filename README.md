@@ -1,6 +1,6 @@
 ## 📑 About me
 > I am an italian computer science student that is trying to learn every day something new about this awesome world!
-> At the moment I'm studying the basic computer science knowledge so i'm not an expert at all <br>
+
 <!--languages-->
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg title="Learned" height="50" width="50"> </a>
 <a href="https://it.wikipedia.org/wiki/CSS"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" title="Learned"> </a>
