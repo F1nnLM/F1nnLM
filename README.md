@@ -9,10 +9,10 @@
 <a href="https://en.wikipedia.org/wiki/Java"> <img src=https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/java.png title="Not Learned" height="50" width="50"> </a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/python-colored.png title="Not Learned" height="50" width="50"> </a>
 <!--other-->
-## 😀 My future projects
+## 😀 My projects
 - personal site
 - custom web browser home page
-- discord bot (NewTon)
+- discord bot (Sixer bot)
 ## Quick facts 💣
 🎮 I play a lot of games, that are mostly [Deceit](https://store.steampowered.com/app/466240/Deceit/) and [Dead by daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
 
