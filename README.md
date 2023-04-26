@@ -6,22 +6,22 @@
 <a href="https://it.wikipedia.org/wiki/CSS"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" title="Learned"> </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"  title="Learned" height="50" width="50"> </a>
 <a href="https://it.wikipedia.org/wiki/Node.js"><a href="https://it.wikipedia.org/wiki/Node.js"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg title="Learned" height="50" width="50"> </a>
-<a href="https://en.wikipedia.org/wiki/Java"> <img src=https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/java.png title="Not Learned" height="50" width="50"> </a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/F1nnLM/F1nnLM/main/python-colored.png title="Not Learned" height="50" width="50"> </a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg title="Learned" height="50" width="50"> </a>
+
 <!--other-->
 ## 😀 My projects
-- personal site
-- custom web browser home page
-- discord bot (Sixer bot)
+- Deceit statistics tracker website w/[SaltyLupo](https://github.com/SaltyLupo)
+- [Personal website](https://f1nnlm.github.io/) (WIP)
+- Custom web browser home page
+- Discord bot (Sixer bot)
 ## Quick facts 💣
 🎮 I play a lot of games, that are mostly [Deceit](https://store.steampowered.com/app/466240/Deceit/) and [Dead by daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
 
 📚 I'm currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
 
-😎 I OWN A FUCKING COOL [VR HEADSET](https://store.facebook.com/it/en/quest/products/quest-2/?gclid=Cj0KCQjwjvaYBhDlARIsAO8PkE1-cYIZMlDnI-ymgnUimcLV3yda_NCUHucDnx5qeA26Xkd_O8H6cSIaAtaLEALw_wcB&gclsrc=aw.ds) 
+🎨 I really like to do art! escpecally the digital one!
 
-💕 At the moment im trying to kill [this guy](https://github.com/DeltaFoxtMike)
-
+🌐 I'm one of the official two italian translators of Deceit
 <details>
 <summary> 
 My Setup 🖥️
