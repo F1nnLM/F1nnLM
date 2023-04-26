@@ -17,13 +17,13 @@
 - Custom web browser home page
 - Discord bot (Sixer bot)
 ## 💣 Quick facts 
-🎮 I play a lot of games, that are mostly [Deceit](https://store.steampowered.com/app/466240/Deceit/) and [Dead by daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
+🎮 I play a lot of games but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
 
 📚 I'm currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
 
 🎨 I really like to do art! escpecally the digital one!
 
-🌐 I'm one of the official two italian translators of Deceit
+🌐 I'm one of the two official italian translators of [Deceit](https://store.steampowered.com/app/466240/Deceit/)
   
 <details>
 <summary> 
