@@ -18,9 +18,9 @@
 - Custom web browser home page
 - Discord bot (Sixer bot)
 ## 💣 Quick facts 
-🎮 I play a lot of games but I hold a special place in my heart for the [half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [portal](https://en.wikipedia.org/wiki/Portal_(series)) series
+🎮 I play a lot of games but I hold a special place in my heart for the [Half-life](https://en.wikipedia.org/wiki/Half-Life_(series)) and [Portal](https://en.wikipedia.org/wiki/Portal_(series)) series
 
-📚 I'm currently studying at [Molinari high school](https://www.istitutomolinari.edu.it/)
+📚 I'm currently studying at [Molinari High School](https://www.istitutomolinari.edu.it/)
 
 🎨 I really like to do art! escpecally the digital one!
 
