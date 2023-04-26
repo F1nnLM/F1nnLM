@@ -1,5 +1,5 @@
 ## 📑 About me
-> I am an italian computer science student that is trying to learn every day something new about this awesome world!
+> I am an italian computer science student that is trying to learn something new every day about this awesome world!
 
 <!--languages-->
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg title="Learned" height="50" width="50"> </a>
@@ -9,6 +9,7 @@
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg title="Learned" height="50" width="50"> </a>
   
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnLM&theme=blue-green)
+  
 
 <!--other-->
 ## 😀 My projects
