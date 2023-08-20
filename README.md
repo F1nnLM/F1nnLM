@@ -11,7 +11,7 @@
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnLM&theme=blue-green)
   
 
-<!--other-->
+<!--other
 ## 😀 My projects
 - Deceit statistics website w/[SaltyLupo](https://github.com/SaltyLupo)
 - [Personal website](https://f1nnlm.github.io/) (WIP)
@@ -25,7 +25,7 @@
 🎨 I really like to do art! escpecally the digital one!
 
 🌐 I'm one of the two official italian translators of [Deceit](https://store.steampowered.com/app/466240/Deceit/)
-  
+-->
 <details>
 <summary> 
 My Setup 🖥️
