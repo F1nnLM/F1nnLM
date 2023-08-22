@@ -13,7 +13,7 @@
 <!--Arduino-->
 <a href="https://www.arduino.cc/"> <img src=https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg title="learned" height="50" width="50"> </a>
 <!-- C++ -->
-<a target="_blank" href="https://github.com/hemeraleback/Cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="45" height="50"/></a>
 </p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnLM&theme=blue-green)
