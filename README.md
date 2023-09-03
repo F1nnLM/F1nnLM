@@ -1,5 +1,5 @@
 ## 📑 About me
-> I am an italian Computer Science student that is trying to learn something new every day about this awesome world!
+> I am an italian IT student that is trying to learn something new every day about this awesome world!
 <!--languages-->
 <p align="left">
 <!--html-->
