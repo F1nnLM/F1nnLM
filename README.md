@@ -1,5 +1,5 @@
 ## 📑 About me
-> I am an italian IT student that is trying to learn something new every day about this awesome world!
+<!--I am an italian IT student that is trying to learn something new every day about this awesome world!-->
 <!--languages-->
 <p align="left">
 <!--html-->
@@ -42,17 +42,17 @@ My Setup 🖥️
   
  
    
-  CPU: [AMD Ryzen 5 2600X Processor with Wraith Spire Cooler - YD260XBCAFBOX](https://www.amazon.com/gp/product/B07B428V2L/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc)
+  CPU: [AMD Ryzen 5 2600X](https://www.amazon.com/gp/product/B07B428V2L/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc)
   
-  RAM: [Crucial RAM 8GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz) Desktop Memory CT8G4DFRA32A](https://www.amazon.com/gp/product/B08C4VHQV2/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&th)
+  RAM: [Crucial RAM 8GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz)](https://www.amazon.com/gp/product/B08C4VHQV2/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&th)
   
-  MOBO: [MSI AMD B450 PRO-VDH Max AM4 Micro ATX DDR4-SDRAM Motherboard](https://www.amazon.com/gp/product/B07WC724Z7/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc)
+  MOBO: [MSI AMD B450 PRO-VDH Max AM4 Micro ATX DDR4-SDRAM](https://www.amazon.com/gp/product/B07WC724Z7/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc)
   
   GPU: [MSI GeForce GTX1650 Super Ventus XS OC 4GB](https://www.amazon.com/gp/product/B081QGH7S7/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
   
-  SSD: [Samsung 500GB 970 EVO Nvme M2 Solid State Drive](https://www.amazon.com/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc)
+  SSD: [Samsung 500GB 970 EVO Nvme M2](https://www.amazon.com/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc)
   
-  HDD: [Seagate BarraCuda 1TB Internal Hard Drive HDD – 3.5 Inch SATA 6 Gb/s 7200 RPM 64MB Cache for Computer Desktop PC (ST1000DM010)](https://www.amazon.com/gp/product/B01LNJBA2I/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1)
+  HDD: [Seagate BarraCuda 1TB](https://www.amazon.com/gp/product/B01LNJBA2I/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1)
   
   
   
