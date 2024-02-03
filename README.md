@@ -41,10 +41,15 @@ My Setup 🖥️
  
    
   CPU: AMD Ryzen 5 5600X
+  
   RAM: 16GB 
+  
   MOBO: MSI AMD B450 PRO-VDH Max AM4 Micro ATX DDR4-SDRAM
+  
   GPU: MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC
+  
   SSD: Samsung 500GB 970 EVO Nvme M2
+  
   HDD: Seagate BarraCuda 1TB
   
   
