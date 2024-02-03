@@ -40,17 +40,12 @@ My Setup 🖥️
   
  
    
-  CPU: [AMD Ryzen 5 2600X](https://www.amazon.com/gp/product/B07B428V2L/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc)
-  
-  RAM: [Crucial RAM 8GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz)](https://www.amazon.com/gp/product/B08C4VHQV2/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&th)
-  
-  MOBO: [MSI AMD B450 PRO-VDH Max AM4 Micro ATX DDR4-SDRAM](https://www.amazon.com/gp/product/B07WC724Z7/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc)
-  
-  GPU: [MSI GeForce GTX1650 Super Ventus XS OC 4GB](https://www.amazon.com/gp/product/B081QGH7S7/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
-  
-  SSD: [Samsung 500GB 970 EVO Nvme M2](https://www.amazon.com/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc)
-  
-  HDD: [Seagate BarraCuda 1TB](https://www.amazon.com/gp/product/B01LNJBA2I/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1)
+  CPU: AMD Ryzen 5 5600X
+  RAM: 16GB 
+  MOBO: MSI AMD B450 PRO-VDH Max AM4 Micro ATX DDR4-SDRAM
+  GPU: MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC
+  SSD: Samsung 500GB 970 EVO Nvme M2
+  HDD: Seagate BarraCuda 1TB
   
   
   
