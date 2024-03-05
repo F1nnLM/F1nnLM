@@ -1,20 +1,22 @@
 ## 📑 About me
+<img alt = "stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnLM&layout=compact"/>
+
 <!--I am an italian IT student that is trying to learn something new every day about this awesome world!-->
-<!--languages-->
+<!--languages
 <p align="left">
-<!--html-->
+
 <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg height="50" width="50">
-<!--css-->
+
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50"> 
-<!--js-->
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" width="50">
-<!--Python-->
+
 <img src= https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg height="50" width="50"> 
-<!--Arduino
+
 <a href="https://www.arduino.cc/"> <img src=https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg title="learned" height="50" width="50"> </a>
 -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=F1nnLM&theme=blue-green)
+
   
 
 <!--other
